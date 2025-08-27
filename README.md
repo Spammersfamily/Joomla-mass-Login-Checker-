@@ -1,5 +1,6 @@
 # Joomla-mass-Login-Checker-
 mass login checker  for joomla 
+# [ > input FORMAT > https://domain/administrator/user#user@pass 
 # [ > https://trabajo.wiki 
 # [ > https://t.me/Morphoisis 
 
